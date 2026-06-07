@@ -12,9 +12,9 @@
         <h3>Esto es Santiago Ixcuintla:</h3>
         <ul>
             <marquee direction="left">
-                <img src="maxresdefault.jpg" width="400" height="500"> 
-                <img src="descargaa.jfif" width="400" height="500">
-                <img src="Santiago.jpg" width="400" height="500">
+                <img src="maxresdefault.jpg" width="300" height="450"> 
+                <img src="descargaa.jfif" width="300" height="450">
+                <img src="Santiago.jpg" width="300" height="450">
             </marquee> 
         </ul>
     </section>
