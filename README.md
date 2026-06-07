@@ -1,5 +1,5 @@
 <html lang="es">
-</head>
+
 <body>
     <header>
         <h1>Dónde Nací??</h1>
@@ -14,7 +14,7 @@
             <marquee direction="left">
                 <img src="maxresdefault.jpg" width="400" height="500"> 
                 <img src="descargaa.jfif" width="400" height="500">
-                <img src="santiago.jpg" width="400" height="500">
+                <img src="Santiago.jpg" width="400" height="500">
             </marquee> 
         </ul>
     </section>
